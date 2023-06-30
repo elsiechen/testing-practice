@@ -9,11 +9,6 @@ This project includes the following functions:<br>
 - **caesarCipher function**: that takes a string and a shift factor and returns it with each character “shifted”
 - **analyzeArray function**: that takes an array of numbers and returns an object with the following properties: average, min, max, and length
 
-## Table of Contents
-
-- Technologies Used
-- Credits
-
 ## Technologies Used
 
 - JavaScript
