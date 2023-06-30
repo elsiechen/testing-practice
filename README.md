@@ -1,6 +1,6 @@
 # Testing Practice
 
-This project focus on writing tests for functions and writing functions to make the tests pass using **Jest**. By default, the current version of Jest will not recognize ES6 import statements, to solve the problem one should install **Babel** to accommodate ES6 import statements with Jest.
+This project aims to enhance the testing process for functions by utilizing Jest, a popular JavaScript testing framework. By default, the current version of Jest does not support ES6 import statements. To overcome this limitation and enable the use of ES6 import statements with Jest, it is recommended to install Babel.
 
 This project includes the following functions:<br>
 - **capitalize function**: that takes a string and returns it with the first character capitalized
