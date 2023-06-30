@@ -32,7 +32,7 @@ function Calculator(a, b) {
 
 function caesarCipher(string, key) {
   // if key is not a positive number, throw error
-  if(key < 0 || !Number.isInteger(key)) throw Error('Key should be a positive number.');
+  if(key < 0 || !Number.isInteger(key)) throw Error('Key should be a positive integer.');
    
   let array = [];
   for(let i = 0; i < string.length; i++) {
